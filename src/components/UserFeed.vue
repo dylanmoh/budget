@@ -115,7 +115,7 @@
   display: block;
   margin-right: auto;
   margin-left: auto;
-  
+  margin-bottom: 80px;
 }
 
 .activity-transaction-list-item {
